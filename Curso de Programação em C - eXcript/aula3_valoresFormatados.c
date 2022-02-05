@@ -28,7 +28,7 @@ int main(){
     //Calculando a área do retângulo
 
     int base = 5;
-    int altura = 7;
+    int altura = 8;
 
     printf("A área do retângulo é de %d cm.\n", base*altura);
 
