@@ -22,7 +22,7 @@ int main(){
     printf("Meu nome começa com a letra %c.\n", letra);
     printf("Tenho %d anos de idade.\n", idade);
     printf("Tenho %.2f cm de altura.\n", altura);
-    printf("Atualmente um notebook de entrada custa R$ %.3f no Brasil.", preco);
+    printf("Atualmente um notebook de entrada custa R$ %.3f no Brasil.\n", preco);
 
     return 0;
 }
