@@ -1,2 +1,2 @@
-# CodigosEmC
-Repositório com meus primeiros códigos na linguagem de programação C. E algumas resoluções de questões da plataforma BeeCrowd.
+# Informações:
+* Nesse repositório você encontrará códigos de programas feitos na linguagem de programação C. 
