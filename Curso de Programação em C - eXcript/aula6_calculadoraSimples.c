@@ -9,7 +9,6 @@ int main(){
     printf("Digite dois números inteiros separados por espaço para ver o resultado das 4 operações básicas com eles: ");
     scanf("%d %d", &num1, &num2);
 
-
     soma =              num1 + num2;
     subtracao =         num2 - num1;
     multiplicacao =     num1 * num2;
