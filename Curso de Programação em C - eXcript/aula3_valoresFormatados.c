@@ -14,7 +14,8 @@ int main(){
 
     Símbolos:
 
-        \"              ==> Aspas
+        \'              ==> Aspas simples
+        \"              ==> Aspas duplas
         \\              ==> Contrabarra
         %%              ==> Imprime o sinal de porcentagem
         \n              ==> Quebra de linha
