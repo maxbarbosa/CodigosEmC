@@ -20,7 +20,6 @@ int main(){
 
     printf("A área do triângulo é mede %d.\n\n", (base*altura)/2);
 
-
     printf("Digite três números inteiros separados por espaço: ");
     scanf("%d %d %d", &n1, &n2, &n3);
 
