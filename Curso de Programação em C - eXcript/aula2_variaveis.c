@@ -14,10 +14,15 @@ int main(){
     short int E; // inteiro com domínio reduzido.
     unsigned short int F; //inteiro positivo com domínio reduzido
 
-    letra = "M";
+    letra = 'M';
     idade = 19;
     preco = 2579.371;
     altura = 1.80;
+
+    printf("Meu nome começa com a letra %c.\n", letra);
+    printf("Tenho %d anos de idade.\n", idade);
+    printf("Tenho %.2f cm de altura.\n", altura);
+    printf("Atualmente um notebook de entrada custa R$ %.3f no Brasil.", preco);
 
     return 0;
 }
