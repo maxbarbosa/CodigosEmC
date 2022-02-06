@@ -3,7 +3,8 @@
 
 int main(){
     
-    int idade, idadeJovem = 17, idadeIdosa = 60;
+    int idade;
+    int idadeJovem = 17, idadeIdosa = 60;
 
     printf("Digite a idade de uma pessoa: ");
     scanf("%d", &idade);
