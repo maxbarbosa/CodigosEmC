@@ -20,7 +20,7 @@ int main(){
         %%              ==> Imprime o sinal de porcentagem
         \n              ==> Quebra de linha
         \t              ==> Tabulação
-        \b              ==> Retrocesso
+        \b              ==> Retrocesso(Backspace)
         \f              ==> Salta página de formulário
         \0              ==> Nulo
         
